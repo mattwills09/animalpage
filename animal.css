@@ -1,0 +1,37 @@
+body {
+    margin: auto;
+    width: 80%;
+    padding: 0;
+    background-color:skyblue ;
+    font-family: Arial, Helvetica, sans-serif ;
+    color:#333333 ;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+header {
+    background-color: darkblue ;
+}
+
+h1 {
+    color:#eee ;
+    font-size:28px ;
+    text-align:center ;
+    padding:20px ;
+    margin:0px;
+    margin-bottom:20px;
+    font-family:calibri;
+}
+
+h2 {
+    font-size:24px ;
+    text-align:center;
+}
+
+#main {
+    width:78% ;
+    margin:auto;
+}
+
+    
+    
